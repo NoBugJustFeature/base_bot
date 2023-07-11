@@ -2,6 +2,7 @@
 
 echo Creating virtual environment...
 python -m venv env
+env\Scripts\activate.bat
 
 echo Installing dependencies...
 pip install -r requirements.txt
