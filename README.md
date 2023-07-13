@@ -6,8 +6,11 @@ Using:
 
 > git clone https://github.com/NoBugJustFeature/base_bot
 
-Use this file:
+Use this file for cmd:
 > after_clone.bat
+
+Use this file for ps:
+> after_clone.ps1
 
 Or use this commands:
 > python -m venv env
